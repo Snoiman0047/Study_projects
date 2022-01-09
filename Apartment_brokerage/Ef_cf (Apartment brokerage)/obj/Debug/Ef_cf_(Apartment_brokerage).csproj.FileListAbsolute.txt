@@ -1,0 +1,84 @@
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe.config
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).pdb
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csprojAssemblyReference.cache
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Properties.Resources.resources
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.GenerateResource.cache
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CoreCompileInputs.cache
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CopyComplete
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).exe
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).pdb
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.xml
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Detailes_Form.resources
+E:\שרי נוימן\שנה ב\C#.net\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Search_Form.resources
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe.config
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).pdb
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.xml
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csprojAssemblyReference.cache
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Detailes_Form.resources
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Search_Form.resources
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Properties.Resources.resources
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.GenerateResource.cache
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CoreCompileInputs.cache
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CopyComplete
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).exe
+E:\שרי נוימן\שנה ב\C#.net\Apartments\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).pdb
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe.config
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).exe
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\Ef_cf (Apartment brokerage).pdb
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OOXML.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csprojAssemblyReference.cache
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Detailes_Form.resources
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Search_Form.resources
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf__Apartment_brokerage_.Properties.Resources.resources
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.GenerateResource.cache
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CoreCompileInputs.cache
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).csproj.CopyComplete
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).exe
+C:\Users\snoim\OneDrive\Desktop\Ef_cf (Apartment brokerage)\Ef_cf (Apartment brokerage)\obj\Debug\Ef_cf (Apartment brokerage).pdb

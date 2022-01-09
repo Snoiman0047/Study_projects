@@ -1,0 +1,36 @@
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.exe.config
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.exe
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.pdb
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.dll
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.SqlServer.dll
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.xml
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.SqlServer.xml
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csprojAssemblyReference.cache
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Form1.resources
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Properties.Resources.resources
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.GenerateResource.cache
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.CoreCompileInputs.cache
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.CopyComplete
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.exe
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.pdb
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Test_Form.resources
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Score_display.resources
+E:\שרי נוימן\שנה ב\C#.net\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.AddEdit_Form.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.exe.config
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.exe
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\Serving_exercise.pdb
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.dll
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.xml
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csprojAssemblyReference.cache
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.AddEdit_Form.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Form1.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Properties.Resources.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Score_display.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.Test_Form.resources
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.GenerateResource.cache
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.CoreCompileInputs.cache
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.csproj.CopyComplete
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.exe
+C:\Users\snoim\OneDrive\Desktop\Serving_exercise\Serving_exercise\obj\Debug\Serving_exercise.pdb

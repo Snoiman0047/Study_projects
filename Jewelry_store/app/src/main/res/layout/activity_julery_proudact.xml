@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".Julery_proudact">
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="209dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="50dp"
+        android:text="TextView"
+        android:textColor="#F32C2C"
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="146dp" />
+
+    <ListView
+        android:id="@+id/Julery_list"
+        android:layout_width="319dp"
+        android:layout_height="344dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginTop="174dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="121dp"
+        android:layout_marginLeft="121dp"
+        android:layout_marginTop="118dp"
+        android:text="Julery catalog"
+        android:textColor="#F32C2C"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/add_but"
+        android:layout_width="14dp"
+        android:layout_height="14dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="574dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginRight="32dp"
+        android:background="@drawable/plus_icon"
+        android:backgroundTint="#E11616"
+        android:textColor="#E11616"
+        android:textColorLink="#E11616"
+        android:textSize="18sp"
+        app:backgroundTint="#0B0B0B"
+        app:icon="@color/black" />
+
+    <EditText
+        android:id="@+id/add_julary"
+        android:layout_width="321dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginBottom="132dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/remove_but"
+        android:layout_width="59dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="99dp"
+        android:layout_marginEnd="26dp"
+        android:layout_marginRight="26dp"
+        android:background="@color/white"
+        android:text="_"
+        android:textColor="#191818"
+        android:textSize="24sp"
+        app:backgroundTint="@color/white" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="351dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginBottom="31dp"
+        android:text="Go to see prices"
+        app:backgroundTint="#DA3434" />
+
+</RelativeLayout>
